@@ -1,2 +1,2 @@
 # HPOTagger
-Enhancing HPO concept recognition with Synonym Expansion and Self-Alignment Pretraining
+Investigation of Synonym Expansion and Self-Alignment Pretraining for Enhancing Human Phenotype Ontology Concept Recognition
