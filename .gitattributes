@@ -1,0 +1,2 @@
+PhenoTagger-enhancement/data.zip filter=lfs diff=lfs merge=lfs -text
+PhenoTagger-enhancement/src/negbio2/parse_model/parser/h.g filter=lfs diff=lfs merge=lfs -text
