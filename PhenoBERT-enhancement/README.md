@@ -8,13 +8,13 @@ Download files in embeddings directory (biobert_v1.1_pubmed & pubmedberthposy_ep
 
 ## Semantic-Enhancer
 
-```
+
 # Replace 'biobert_v1.1_pubmed' in the path with 'pubmedberthposy_epoch_10_filter'.
-```
+
 
 ## Instance-Enhancer
 
-```
+
 # Generate the original training dataset.
 cd /your/path/PhenoBERT-enhancement/utils
 python produce_trainSet.py
@@ -32,5 +32,5 @@ python expand_trainSet_sub.py
 python trainSet_sub_filter.py
 
 # After these steps, the Dsy_train.txt file and Dsy_train_source folder will be in /your/path/PhenoBERT-enhancement/models/.
-```
+
 
