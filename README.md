@@ -17,7 +17,7 @@ Refer to SapBERT model training process:
 
 1. Replace the UMLS synonym file in SapBERT with the HPO synonym expansion file in the first step.
 
-2. Use the SapBERT training script to train 1(10) rounds, and output the model file as the subsequent semantic enhancement model.
+2. Use the SapBERT training script to train 1(10) Epoch(s), and output the model file as the subsequent semantic enhancement model.
 
 # Model Training and Tagging
 
