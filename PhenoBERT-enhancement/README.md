@@ -1,4 +1,6 @@
-# Preparation（git clone & pip install & setup.py）
+# Preparation
+
+git clone & pip install & setup.py
 
 Download files in embeddings directory (biobert_v1.1_pubmed & pubmedberthposy_epoch_10_filter & fasttext_pubmed.bin)
 
