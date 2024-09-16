@@ -1,0 +1,121 @@
+basal cell carcinoma	HP:0002671
+skin tags	HP:0010609
+pedunculated papules	HP:0200034
+basal cell carcinomas	HP:0002671
+skin tag	HP:0010609
+tumors	HP:0002664
+acrochordons	HP:0010609
+bilateral mandibular coronoid processes hyperplasia	HP:0000277
+bilateral hyperplasia of the mandibular coronoid processes	HP:0000277
+neurofibromatosis	HP:0001067
+axonal mononeuropathy multiplex	HP:0009831
+Schwann cells transformed	HP:0100008
+defective Schwann cell function	HP:0100008
+degeneration of axons	HP:0000764
+ulcerative colitis	HP:0100279
+colitis	HP:0002583
+blood stools	HP:0002573
+scoliosis	HP:0002650
+multiple nevi	HP:0001054
+palmar and plantar pits	HP:0010610
+plantar pits	HP:0010612
+pits	HP:0004467
+jaw cysts	HP:0010603
+calcification of the falx cerebri	HP:0005462
+edematous and spotty bleeding mucosa	HP:0004295
+intestinal disorders	HP:0002012
+basal cell nevus syndrome	HP:0002671
+bridging of sella turcica	HP:0005449
+biparietal bossing	HP:0000242
+downward slanting palpebral fissures	HP:0000494
+mandible prognathism	HP:0000303
+pectus excavatum	HP:0000767
+thumb abnormalities	HP:0001172
+occult spina bifida	HP:0003298
+spina bifida	HP:0002414
+numerous basal cell nevi	HP:0001054
+basal cell nevi	HP:0002671
+patellar dysplasia	HP:0006446
+abnormal clavicular shape	HP:0000889
+preterm infants	HP:0001622
+abnormal ribs	HP:0000772
+skin cancer	HP:0008069
+cancer	HP:0002664
+acoustic neuromas	HP:0009588
+hearing loss	HP:0000365
+ophthalmic, orofacial, articular, and auditory manifestations	HP:0000478
+orofacial, articular, and auditory manifestations	HP:0000153
+articular, and auditory manifestations	HP:0001367
+auditory manifestations	HP:0000364
+branchial, otic and renal anomalies	HP:0009794
+otic and renal anomalies	HP:0000598
+renal anomalies	HP:0000077
+cleft palate	HP:0000175
+myopia	HP:0000545
+vitreous anomaly	HP:0007773
+flat face	HP:0000272
+pre-auricular pits	HP:0004467
+branchial	HP:0009794
+branchial fistulae	HP:0009795
+renal agenesis	HP:0000104
+brachycephaly	HP:0000248
+sensorineural hearing loss	HP:0000407
+speech impediment	HP:0002167
+mild ataxia	HP:0001251
+enlarged foramen magnum	HP:0002700
+brainstem abnormality	HP:0002363
+renal hypoplasia	HP:0000089
+malformations of the kidney or collecting system	HP:0004742
+malformations of the kidney or collecting system including duplication	HP:0000081
+malformations of the kidney	HP:0012210
+ear anomalies	HP:0000598
+duplication of the urinary collecting system	HP:0000081
+branchial and ear anomalies	HP:0009794
+basal cell naevus	HP:0002671
+unusual craniofacial anomalies	HP:0001999
+hemangiomatous branchial clefts	HP:0009794
+lip pseudoclefts	HP:0000159
+unusual facial appearance	HP:0001999
+microphthalmia	HP:0000568
+nasolacrimal duct obstruction	HP:0000579
+multiple nevoid	HP:0001054
+congenital lung cyst	HP:0010959
+lung cyst	HP:0005948
+ocular abnormalities	HP:0000315
+posterior subcapsular or capsular, cortical, or mixed lens opacities	HP:0007787
+capsular, cortical, or mixed lens opacities	HP:0100020
+cortical, or mixed lens opacities	HP:0100019
+lens opacities	HP:0000518
+retinal hamartomas	HP:0009594
+cataracts	HP:0000518
+developmental abnormalities	HP:0001263
+abnormalities of the eye	HP:0000478
+ocular motor deficits	HP:0000496
+cataract	HP:0000518
+posterior subcapsular or capsular cataract	HP:0007787
+capsular cataract	HP:0100017
+cortical cataract	HP:0100019
+neurological signs	HP:0000707
+facial characteristics	HP:0001999
+hypopigmentation of skin	HP:0001010
+hypopigmentation	HP:0007513
+hypopigmentation of skin or hair	HP:0005599
+short ear	HP:0400005
+developmental defects	HP:0001263
+tumor	HP:0002664
+skin lesions	HP:0011355
+branchial abnormality	HP:0009794
+endocrine neoplasia	HP:0100568
+neoplasia	HP:0002664
+cutaneous manifestations	HP:0000951
+cutaneous abnormalities	HP:0000951
+facial angiofibromas	HP:0009720
+angiofibromas	HP:0010615
+Angiofibromas	HP:0010615
+Collagenomas	HP:0000951
+cafe au lait macules	HP:0000957
+lipomas	HP:0001012
+confetti-like hypopigmented macules	HP:0007449
+gingival papules	HP:0000168
+collagenomas	HP:0000951
+hyperparathyroidism	HP:0000843

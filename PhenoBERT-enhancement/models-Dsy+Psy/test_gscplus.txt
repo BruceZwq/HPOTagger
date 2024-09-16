@@ -1,0 +1,857 @@
+brachydactyly	HP:0001156
+absence of some middle or distal phalanges	HP:0009881
+aplastic or hypoplastic nails	HP:0001798
+hypoplastic nails	HP:0001792
+symphalangism	HP:0100264
+ankylois of proximal interphalangeal joints	HP:0008090
+synostosis of some carpal and tarsal bones	HP:0009702
+craniosynostosis	HP:0001363
+dysplastic hip joints	HP:0001385
+external ear anomalies	HP:0000356
+preaxial polydactyly	HP:0001177
+polydactyly	HP:0010442
+triphalangeal thumbs	HP:0001199
+imperforate anus	HP:0002023
+renal malformations	HP:0012210
+mental retardation	HP:0001249
+keratocysts of the jaws	HP:0010603
+palmar and/or plantar pits	HP:0010612
+skeletal abnormalities	HP:0000924
+intracranial calcifications	HP:0002514
+Jaw cysts	HP:0010603
+calcification of falx cerebri	HP:0005462
+BCCs	HP:0002671
+palmar/plantar pits	HP:0010610
+neurodevelopmental disorder	HP:0000707
+neurobehavioral disorders	HP:0000708
+cholesteatoma	HP:0009797
+anomalies of the facial nerve	HP:0010827
+branchial arch, otic, and renal malformations	HP:0009794
+otic, and renal malformations	HP:0000598
+unilateral duplication of the facial nerve	HP:0010827
+severe mental retardation	HP:0002187
+postnatal microcephaly	HP:0005484
+microcephaly	HP:0000252
+macrostomia	HP:0000154
+prognathia	HP:0000303
+absence of speech	HP:0001344
+ataxia	HP:0001251
+happy disposition	HP:0100024
+obesity	HP:0001513
+muscular hypotonia	HP:0001252
+mild mental retardation	HP:0001256
+Neurofibromatosis	HP:0001067
+schwannomas	HP:0100008
+meningiomas	HP:0002858
+meningioma	HP:0002858
+schwannoma	HP:0100008
+Tumour	HP:0002664
+tumour	HP:0002664
+skin features	HP:0000951
+neurofibromas	HP:0001067
+café au lait patches	HP:0000957
+Popliteal pterygium	HP:0009756
+pterygium	HP:0001059
+popliteal webbing	HP:0009756
+cleft lip, cleft palate	HP:0000202
+cleft lip	HP:0100333
+lower lip pits	HP:0000196
+syndactyly	HP:0001159
+genital and nail anomalies	HP:0000078
+nail anomalies	HP:0001597
+cleft lip/palate	HP:0000202
+Triphalangeal thumb	HP:0001199
+Deafness	HP:0000365
+Anomalies of the semicircular canals	HP:0011380
+Anomalies of the semicircular canals and the incus	HP:0011453
+inculomalleolar fusion	HP:0005473
+episodes of abdominal pain	HP:0002574
+abdominal pain	HP:0002027
+pain	HP:0012531
+edema	HP:0000969
+mildly mentally retarded	HP:0001256
+mentally retarded	HP:0001249
+retarded	HP:0001263
+short stature	HP:0004322
+antepositioned anus	HP:0001545
+bifid right thumb	HP:0009944
+large toes	HP:0010511
+low set ears	HP:0000369
+microretrognathia	HP:0000308
+deafness	HP:0000365
+Brachydactyly type A-1	HP:0009371
+BDA1	HP:0009371
+craniofacial, auricular, ophthalmologic, and oral anomalies	HP:0001999
+auricular, ophthalmologic, and oral anomalies	HP:0000377
+ophthalmologic, and oral anomalies	HP:0000478
+oral anomalies	HP:0000153
+skin defects in the neck	HP:0000464
+infra/supra-auricular region	HP:0000356
+unusual areas of thin, erythematous wrinkled skin	HP:0000951
+erythematous wrinkled skin	HP:0010783
+wrinkled skin	HP:0100678
+cervical pits, cysts, and fistulas	HP:0009795
+cervical pits, cysts	HP:0009796
+fistulas	HP:0009794
+nasolacrimal duct stenosis	HP:0007678
+prehelical pits	HP:0004467
+malformed pinna	HP:0000377
+Schwannomas	HP:0100008
+Schwannomas in the skin	HP:0009593
+skin tumors	HP:0008069
+vestibular schwannomas	HP:0009588
+skin schwannomas	HP:0009593
+epilepsy	HP:0001250
+neuro-developmental disorder	HP:0012759
+mild to moderate global developmental delay	HP:0011342
+moderate global developmental delay	HP:0011343
+global developmental delay	HP:0001263
+speech impairment	HP:0002167
+inappropriate happy demeanor	HP:0100024
+happy demeanor	HP:0040082
+wide-based gait	HP:0002136
+frequent ear infections	HP:0000403
+deep-set eyes	HP:0000490
+wide mouth	HP:0000154
+widely-spaced teeth	HP:0000687
+seizures	HP:0001250
+preaxial polydatyly	HP:0100258
+white forelock	HP:0002211
+brachydactyly type C	HP:0009373
+malformations restricted to the upper limbs	HP:0002817
+monocular elevator paresis	HP:0000496
+schwannomas, of the third nerve	HP:0001291
+retardation	HP:0001249
+cerebral palsy	HP:0100021
+encephalopathy	HP:0001298
+autism spectrum disorder	HP:0000729
+autism	HP:0000717
+pervasive developmental delay	HP:0000729
+developmental delay	HP:0001263
+frontal bossing	HP:0002007
+increased occipitofrontal circumference	HP:0000256
+palmar pits	HP:0010610
+odontogenic keratocyst	HP:0010603
+ectopic calcification	HP:0010766
+bifid rib	HP:0000892
+basal cell carcinomas on the face	HP:0000271
+BDA-1	HP:0009371
+shortening or missing of the middle phalanges	HP:0005819
+missing of the middle phalanges	HP:0009843
+hand anomalies	HP:0001155
+ear malformations	HP:0000598
+cardiac anomalies	HP:0001627
+truncus arteriosus	HP:0001660
+pulmonary valve atresia	HP:0005134
+hypoplastic thumbs	HP:0009778
+neurobehavioural disorder	HP:0000707
+mental retardation, profound	HP:0002187
+profound speech impairment	HP:0002167
+movement and balance disorder	HP:0100022
+inappropriately happy affect	HP:0100024
+seizure	HP:0001250
+type C brachydactyly	HP:0009373
+unilateral vestibular schwannoma	HP:0009590
+vestibular schwannoma	HP:0009588
+bilateral disease	HP:0009589
+contralateral vestibular schwannoma	HP:0009589
+unilateral vestibular schwannomas	HP:0009590
+tumours	HP:0002664
+malignant mesothelioma	HP:0100001
+mesothelioma	HP:0100001
+susceptible to mesothelioma	HP:0002664
+cleft lip and palate	HP:0000175
+lip pits	HP:0000196
+cleft lip or palate	HP:0000175
+skin and genital anomalies	HP:0000951
+genital anomalies	HP:0000078
+intracranial meningiomas	HP:0100009
+BDC	HP:0009373
+Brachydactyly type A1	HP:0009371
+profoundly deaf	HP:0000365
+bilateral vestibular schwannomas	HP:0009589
+mixed hearing loss	HP:0000410
+Mondini type cochlear malformation	HP:0000376
+cochlear malformation	HP:0008554
+stapes fixation	HP:0000381
+cup-shaped, anteverted pinnae	HP:0000378
+branchial cleft fistulas	HP:0009795
+branchial cleft	HP:0009794
+bilateral renal dysplasia	HP:0012582
+renal dysplasia	HP:0000110
+anomalies of the collecting system	HP:0004742
+aplasia of the lacrimal ducts	HP:0007993
+bilateral polycystic kidneys	HP:0000113
+branchial arch syndromes	HP:0009794
+vertical talus	HP:0001838
+developmental hip dysplasia	HP:0001385
+Premature vertebral end-plate disease	HP:0008419
+spondylolysis	HP:0003304
+spondylolisthesis	HP:0003302
+Axial skeletal involvement	HP:0009121
+clubfoot	HP:0001762
+distal arthrogryposes	HP:0005684
+multiple congenital contractures	HP:0002804
+congenital contractures	HP:0002803
+contractures	HP:0001371
+contractures of the limbs	HP:0003121
+multiple-congenital-contracture	HP:0002804
+congenital-contracture	HP:0002803
+contracture	HP:0001371
+calcification of the falx cerebri and tentorium cerebelli	HP:0007352
+dysgenesis of the corpus callosum and vermis	HP:0002195
+dysgenesis of the corpus callosum	HP:0006989
+Vermian dysgenesis	HP:0002195
+manifestations affecting branchial, renal	HP:0000077
+manifestations affecting branchial	HP:0009794
+manifestations affecting branchial, renal and auditory development	HP:0000364
+basal-cell-carcinoma	HP:0002671
+multiple naevoid basal-cell carcinomas	HP:0001054
+basal-cell carcinomas	HP:0002671
+odontogenic keratocysts	HP:0010603
+skeletal anomalies	HP:0000924
+intracranial calcification	HP:0002514
+developmental malformations	HP:0001263
+basal cell carcinomas of the skin	HP:0002671
+ovarian fibromas	HP:0010618
+medulloblastomas	HP:0002885
+ovarian fibroma	HP:0010618
+hypotonic at birth	HP:0008935
+oligohydramnios	HP:0001562
+renal hypoplasia and agenesis	HP:0000104
+pulmonary hypoplasia	HP:0002089
+immaturity of the middle ear cleft, ossicles, facial nerve	HP:0010827
+immaturity of the middle ear cleft, ossicles	HP:0004452
+immaturity of the middle ear cleft, ossicles, facial nerve and canal, and cochlear nerve	HP:0000375
+immaturity of the middle ear cleft	HP:0000370
+renal hypoplasia/dysplasia	HP:0000110
+renal hypoplasia/dysplasia or agenesis	HP:0000104
+renal defect	HP:0000077
+preauricular pits	HP:0004467
+lacrimal duct stenosis	HP:0007925
+branchial fistulae and/or cysts	HP:0009796
+Hearing studies	HP:0000365
+bilateral acoustic neurinomas	HP:0009589
+acoustic neurinomas	HP:0009588
+other tumors	HP:0002664
+tumors in the central nervous system	HP:0100006
+paraspinal neurinoma	HP:0006751
+hypernasal speech	HP:0001611
+continued growth along the third centile	HP:0004322
+ear and kidney anomalies	HP:0000598
+kidney anomalies	HP:0000077
+ear and kidney clinical syndromes	HP:0000598
+kidney clinical syndromes	HP:0000077
+Brachydactyly type C	HP:0009373
+shortening of the middle phalanges of the index, middle, and little finger	HP:0004220
+hyperphalangy, usually of the index and middle finger	HP:0009495
+hyperphalangy	HP:0010235
+ulnar deviation of the second and third digits	HP:0009464
+ulnar deviation	HP:0001193
+shortening of the metacarpals IV and V	HP:0010047
+hearing impairment	HP:0000365
+lop-ear deformity	HP:0000394
+branchial cleft sinus tracts	HP:0100272
+acoustic neuroma	HP:0009588
+cranial meningiomas	HP:0100009
+spinal tumours	HP:0010302
+lens opacity	HP:0000518
+Vestibular schwannomas	HP:0009588
+tinnitus	HP:0000360
+muscle weakness	HP:0001324
+muscle weakness or wasting	HP:0003202
+vertigo	HP:0002321
+blindness	HP:0000618
+Café au lait spots	HP:0000957
+Skin tumours	HP:0008069
+ependymomas	HP:0002888
+tumors of the nervous system	HP:0004375
+cranial and spinal meningiomas	HP:0100009
+spinal meningiomas	HP:0100010
+Skin manifestations	HP:0000951
+spasticity	HP:0001257
+cerebral atrophy	HP:0002059
+brain malformation	HP:0002011
+tumors on the vestibular branch	HP:0009588
+tumors on the vestibular branch of the VIII cranial nerve	HP:0009591
+nervous system tumors	HP:0004375
+nerve tumors	HP:0004375
+spinal tumors	HP:0010302
+peripheral nerve tumors	HP:0100007
+absence of vocalization	HP:0001344
+swallowing disorders	HP:0002015
+hypotonia	HP:0001252
+ocular manifestations	HP:0000478
+fundus lesion	HP:0001144
+left orbital dermoid cyst	HP:0001144
+branchial cleft fistula	HP:0009795
+iris pigment epithelial cyst	HP:0000525
+hamartoma of the retina	HP:0009594
+retina pigment epithelium	HP:0007703
+craniofacial, auricular, oral, and ophthalmic anomalies	HP:0001999
+auricular, oral, and ophthalmic anomalies	HP:0000598
+oral, and ophthalmic anomalies	HP:0000153
+ophthalmic anomalies	HP:0000478
+lacrimal sac fistula	HP:0000632
+orbital dermoid cyst	HP:0001144
+retinal pigment epithelium	HP:0007703
+shortening of the big toes	HP:0010109
+cupped ears	HP:0000378
+Schwann cell derived tumours	HP:0100008
+orbital haemangiomatous cysts	HP:0001144
+speech disorder	HP:0000750
+stereotyped jerky movements	HP:0001336
+behavioral profile	HP:0000708
+outbursts of laughter	HP:0000749
+laughter	HP:0000748
+electroencephalographic patterns	HP:0002353
+Epilepsy	HP:0001250
+atypical absences	HP:0007270
+myoclonic and tonic-clonic seizures	HP:0002123
+myoclonic	HP:0001336
+tonic-clonic seizures	HP:0002069
+fever	HP:0001945
+status epilepticus	HP:0002133
+electroclinical profile	HP:0002353
+developmentally delayed	HP:0001263
+brachydactyly type A2 (BDA2)	HP:0009372
+proximal symphalangism	HP:0100264
+SYM1	HP:0006152
+BDA2	HP:0009372
+SYM1-like	HP:0006152
+bilateral vestibular schwannoma	HP:0009589
+ocular pathologic findings	HP:0000478
+posterior subcapsular cataracts	HP:0007787
+subcapsular cataracts	HP:0000523
+epiretinal membranes	HP:0100014
+intrascleral schwannoma	HP:0100011
+anteriorly placed anus	HP:0001545
+atretic ear canals	HP:0000413
+mandibular hypoplasia	HP:0000347
+epibulbar dermoid	HP:0001140
+spinal neurofibromas	HP:0009735
+café au lait spots (CLS)	HP:0000957
+cutaneous tumors	HP:0008069
+Lisch nodules	HP:0009737
+acoustic tumors	HP:0009588
+limb malformation	HP:0002813
+branchial and external ear malformations	HP:0009794
+external ear malformations	HP:0000356
+ear pits	HP:0004467
+profound hearing loss	HP:0000365
+kidney agenesis	HP:0000104
+skeletal dysplasia	HP:0002652
+limb malformations	HP:0002813
+craniofacial disorder	HP:0001999
+cutaneous anomalies	HP:0000951
+infra- and/or supra-auricular defects	HP:0000377
+ocular anomalies	HP:0000315
+facial appearance	HP:0001999
+malformed pinnae	HP:0000356
+oral clefts	HP:0000202
+clefts	HP:0009794
+renal and ectodermal (dental and hair) anomalies	HP:0000077
+ectodermal (dental and hair) anomalies	HP:0000164
+Skeletal, genital malformations	HP:0000924
+genital malformations	HP:0000078
+involvement of the skin	HP:0000951
+orofacial clefting	HP:0000202
+unilateral cleft lip and palate	HP:0100334
+unilateral cleft lip	HP:0100333
+ankyloblepharon	HP:0009755
+paramedian lip pits	HP:0100269
+unilateral renal aplasia	HP:0000122
+renal aplasia	HP:0000104
+coronal hypospadias	HP:0008743
+hypospadias	HP:0000047
+renal malformation	HP:0012210
+shortening of the middle phalanges in all digits	HP:0005819
+neurological disorder	HP:0000707
+loss of motor coordination	HP:0002275
+sleep disturbances	HP:0002360
+branchial arch abnormalities	HP:0009794
+renal abnormalities	HP:0000077
+brain tumour	HP:0100006
+medulloblastoma	HP:0002885
+basal cell carcinomata	HP:0002671
+multiple neoplasia	HP:0002664
+nervous system tumours	HP:0004375
+astrocytomas	HP:0009592
+peripheral neuropathy	HP:0009830
+ophthalmological lesions	HP:0000478
+cutaneous lesions	HP:0000951
+skin tumours	HP:0008069
+Basal cell nevus	HP:0002671
+oculocutaneous albinism	HP:0001107
+albinism	HP:0001022
+severe to profound global developmental delay	HP:0001263
+profound global developmental delay	HP:0012736
+postnatal-onset microcephaly	HP:0005484
+hyperreflexia	HP:0001347
+hyperkinesis	HP:0002487
+hypopigmented	HP:0001010
+eye abnormalities	HP:0000478
+choroidal pigment hypoplasia	HP:0000610
+abnormal development	HP:0001263
+bilateral acoustic neurofibromatosis	HP:0009589
+gliomas	HP:0009733
+popliteal pterygium	HP:0009756
+toe syndactyly	HP:0001770
+bilateral occurrence of acoustic neurinomas	HP:0009589
+episodes of paroxysmal laughter	HP:0000749
+prominent jaw	HP:0000303
+pointed chin	HP:0000307
+Tongue thrusting	HP:0000182
+movement disorder	HP:0100022
+wide based, ataxic gait	HP:0002136
+ataxic	HP:0001251
+ataxic gait	HP:0002066
+jerky limb movements	HP:0002311
+flapping of the hands	HP:0100023
+lachrymal duct stenosis	HP:0007925
+branchial fistulas or cysts	HP:0009796
+branchial fistulas	HP:0009795
+structural defects of the outer, middle, and inner ear	HP:0000598
+branchial clefts	HP:0009794
+otologic	HP:0000598
+renal investigation	HP:0000077
+cardiac defect	HP:0001627
+ossicular anomalies	HP:0004452
+posterior capsular cataract	HP:0100020
+posterior capsular lens opacities	HP:0007787
+Bilateral acoustic neurofibromatosis	HP:0009589
+BANF	HP:0009589
+tumours of the nervous system	HP:0004375
+bilateral acoustic neuromas	HP:0009589
+jaw lesions	HP:0000277
+bifid ribs	HP:0000892
+psychomotor retardation	HP:0001263
+Seizures	HP:0001250
+diffuse atrophy of the brain	HP:0002283
+tumours of the human nervous system	HP:0004375
+multiple tumors of neural crest	HP:0004375
+neurofibroma	HP:0001067
+central nervous system tumors	HP:0100006
+Meningiomas	HP:0002858
+Intracranial nontumoral calcifications	HP:0002514
+intracranial tumors	HP:0100006
+anal, urorenal, ear and limb malformations	HP:0004378
+urorenal, ear and limb malformations	HP:0000077
+ear and limb malformations	HP:0000598
+prominent perineal raphe	HP:0003246
+rectoperineal fistula	HP:0004792
+triphalangeal thumb	HP:0001199
+preaxial hexadactyly	HP:0001177
+clinodactyly	HP:0030084
+preauricular protuberances	HP:0000384
+hypoplastic satyr ears	HP:0000377
+urorenal anomalies	HP:0000079
+limb anomalies	HP:0002813
+Anorectal malformations	HP:0002034
+cerebellar symptoms	HP:0001317
+8th cranial nerve	HP:0009591
+brain stem symptoms	HP:0002363
+lesions of further cranial nerves	HP:0001291
+increasing intracranial pressure	HP:0002516
+acoustic neurinoma	HP:0009588
+feet abnormalities	HP:0001760
+distal arthrogryposis	HP:0005684
+arthrogryposis	HP:0002804
+multiple joint contractures	HP:0002828
+joint contractures	HP:0001371
+happy puppet	HP:0100024
+abnormal upper lip	HP:0000177
+malformed nose	HP:0000366
+broad bridge	HP:0000431
+flattened tip	HP:0000437
+lacrimal duct obstruction	HP:0000579
+malformed ears	HP:0000377
+branchial cleft sinuses	HP:0009794
+linear skin lesions behind the ears	HP:0004464
+coloboma	HP:0000589
+auricular pits	HP:0004467
+highly arched plate	HP:0000218
+dental anomalies	HP:0000164
+subcutaneous cysts	HP:0200040
+cysts of the scalp	HP:0001965
+Premature graying of hair	HP:0002216
+Growth retardation	HP:0001510
+EEG abnormalities	HP:0002353
+Persistent rhythmic 4-6/s activities	HP:0010846
+drowsiness	HP:0002329
+basal-cell carcinoma	HP:0002671
+basal-cell carcinomata	HP:0002671
+cysts of the jaws	HP:0010603
+skeletal--specifically	HP:0000924
+rib--abnormalities	HP:0000772
+milia	HP:0001056
+epidermoid cysts	HP:0200040
+chalazia	HP:0010605
+comedones	HP:0000951
+skin cancers	HP:0008069
+ovarian fibrosarcoma	HP:0000137
+fibrosarcoma	HP:0100244
+fibrosarcoma of the jaws	HP:0000277
+cardiac fibroma	HP:0010617
+rhabdomyoma	HP:0009730
+aggression	HP:0000718
+basal cell cancers	HP:0002671
+hypotonia of infancy	HP:0001319
+incoordination	HP:0002311
+voracious appetite	HP:0002591
+hypertelorism	HP:0000316
+ataxic-like movements	HP:0001251
+frequent, unprovoked and prolonged bouts of laughter	HP:0000749
+hearing loss of conductive	HP:0000405
+hearing loss of conductive, sensorineural, or mixed type	HP:0000410
+hearing loss of conductive, sensorineural	HP:0000407
+lateral cervical sinuses	HP:0000077
+milie	HP:0001056
+Short stature	HP:0004322
+brachydactyly C	HP:0009373
+hip dysplasia	HP:0001385
+branchial cleft cysts	HP:0009796
+gustatory lacrimation	HP:0100274
+cranial nerve-end organ innervation	HP:0001291
+lacrimal stenosis	HP:0007925
+basal cell nevus	HP:0002671
+basal cell epithelioma	HP:0002671
+basal cell epithelioma of the face	HP:0000271
+facial nerve palsy	HP:0010628
+eye enucleations	HP:0000478
+facial mutilations	HP:0000271
+bradycardia	HP:0001662
+hypotension	HP:0002615
+congenital hemiparesis	HP:0001269
+absent internal carotid artery	HP:0005290
+enlarged cardiac silhouette	HP:0001627
+left ventricular fibroma	HP:0010617
+ventricular arrhythmia	HP:0004308
+cervical fistulae	HP:0009795
+ear dysplasia	HP:0000598
+renal adysplasia	HP:0000110
+branchial arch malformations	HP:0009794
+Potter facies	HP:0002009
+auricular malformation	HP:0000356
+coxa-epiphysiolysis	HP:0006461
+thumb ankylosis	HP:0001172
+slight dysmorphia	HP:0001999
+type A brachydactylia,	HP:0009370
+ankylosis of both thumbs	HP:0001172
+sensorineural deafness	HP:0000407
+rectovaginal fistula	HP:0000143
+hypoplastic thumb	HP:0009778
+congenital heart defect	HP:0030680
+auricular changes	HP:0000383
+bilateral acoustic neuroma	HP:0009589
+skin changes	HP:0000951
+renal ectopia	HP:0000086
+bilateral renal agenesis	HP:0010958
+Potter syndrome	HP:0002009
+bilateral sensorineural hearing loss	HP:0008619
+preauricular pit or tag	HP:0000384
+preauricular pit	HP:0004467
+duplication of the ureters	HP:0000073
+bifid renal pelvices	HP:0005580
+cerebral gigantism	HP:0002060
+jaw cyst	HP:0010603
+basal cell naevoid	HP:0002671
+hydrocephalus	HP:0000238
+ventricular malformation	HP:0002118
+cerebellar syndrome	HP:0001317
+oculomotor disturbances	HP:0000496
+peripheral nervous disorders	HP:0000759
+calcium metabolism	HP:0004363
+Popliteal Pterygium	HP:0009756
+cleft of the palate	HP:0000175
+involvement of the palate, gums, and lips	HP:0000159
+involvement of the palate	HP:0000174
+involvement of the lower limbs	HP:0002814
+involvement of the lower limbs, genitalia, and nails	HP:0001597
+involvement of the lower limbs, genitalia	HP:0000078
+earpits	HP:0004467
+sensorineural, conductive or mixed hearing loss	HP:0000407
+conductive or mixed hearing loss	HP:0000405
+defects of the outer, middle and inner ear	HP:0000359
+Pits	HP:0004467
+earpit	HP:0004467
+conduction	HP:0000405
+ankylosis of the stapes	HP:0000381
+disconnection of the ossicular chain	HP:0004452
+congenital distal limb contractures	HP:0002803
+distal limb contractures	HP:0005684
+limb contractures	HP:0003121
+congenital joint contractures	HP:0002803
+tightly clenched fists	HP:0001188
+medially overlapping fingers	HP:0010557
+camptodactyly	HP:0012385
+positional foot deformities	HP:0005656
+foot deformities	HP:0001760
+Contractures	HP:0001371
+visceral anomalies	HP:0002012
+distal contractures	HP:0005684
+small tongue	HP:0000171
+trismus	HP:0000211
+ptosis	HP:0000508
+epicanthal folds	HP:0000286
+keratoconus	HP:0000563
+unique hand position	HP:0001155
+contractural arachnodactyly	HP:0001166
+Cutaneous manifestations	HP:0000951
+Happy Puppet	HP:0100024
+"puppet-like" gait	HP:0001288
+craniofacial abnormalities	HP:0001999
+frequent episodes of laughter	HP:0000749
+unilateral cerebellar atrophy	HP:0001272
+cerebellar abnormalities	HP:0001317
+bilateral branchial sinuses	HP:0009794
+intrauterine and postnatal growth retardation	HP:0001511
+postnatal growth retardation	HP:0008897
+growth retardation	HP:0001510
+premature aging	HP:0002216
+puppet-like ataxic movements	HP:0001251
+microbrachycephaly	HP:0000248
+prognathism	HP:0000303
+tongue protrusion	HP:0010808
+inappropriate paroxysms of laughter	HP:0000748
+paroxysms of laughter	HP:0000749
+multiple basal cell nevi	HP:0001054
+cysts of the jaw	HP:0010603
+anomalies of ribs	HP:0000772
+anomalies of ribs and spine	HP:0000925
+abnormal calcifications	HP:0004348
+anomalies of the facial	HP:0000271
+"unfocused" activities	HP:0000708
+Behavioral characteristics	HP:0000708
+non-adaptive behavior	HP:0000708
+ulnar deviation of fingers	HP:0009465
+contractures of both hands	HP:0009473
+bilateral clubfeet	HP:0001776
+clubfeet	HP:0001762
+short in stature	HP:0004322
+delayed carpal ossification	HP:0001216
+"distal" arthrogryposis	HP:0005684
+epileptic seizures	HP:0002133
+easily provoked and prolonged paroxysms of laughter	HP:0000749
+atactic jerky movements	HP:0001251
+jerky movements	HP:0001336
+mandible with prognathia	HP:0000303
+2-3 cps spike and wave activity in the EEG	HP:0010848
+deaf	HP:0000365
+bursts of laughter	HP:0000749
+hyperactive behaviour	HP:0000752
+mandibular prognathism	HP:0000303
+widely spaced teeth	HP:0000687
+puppetlike movements	HP:0100022
+wide based gait	HP:0002136
+behavioral characteristics	HP:0000708
+CNS tumors	HP:0004375
+eye, ear, oral, and craniofacial anomalies	HP:0000478
+ear, oral, and craniofacial anomalies	HP:0000598
+oral, and craniofacial anomalies	HP:0000153
+craniofacial anomalies	HP:0001999
+cervical/infra-auricular skin defects	HP:0009794
+infra-auricular skin defects	HP:0000356
+supra-auricular defects	HP:0000383
+abnormal overlying skin	HP:0000951
+draining sinus fistulae	HP:0004467
+sinus fistulae	HP:0009794
+Renal malformations	HP:0012210
+congenital heart and central nervous system defects	HP:0030680
+central nervous system defects	HP:0002011
+development delays	HP:0001263
+visual, hearing, and speech problems	HP:0000478
+hearing, and speech problems	HP:0000364
+speech problems	HP:0000750
+spinal stenosis	HP:0003416
+hand and foot involvement	HP:0001155
+foot involvement	HP:0001760
+craniofacial changes	HP:0001999
+ectrodactyly	HP:0100257
+biliary atresia	HP:0005912
+Duane syndrome	HP:0009921
+trapeze aplasia	HP:0006106
+Club foot	HP:0001762
+Distal arthrogryposis	HP:0005684
+club foot	HP:0001762
+congenital contracture	HP:0002803
+increased skin pigmentation	HP:0000953
+branchial arch anomalies	HP:0009794
+sarcoma	HP:0100242
+Dysmorphogenesis	HP:0001999
+unilateral renal agenesis	HP:0000122
+bilateral supra-auricular sinuses	HP:0008606
+development of the optic vesicles	HP:0000478
+branchial arches	HP:0009794
+posterior subcapsular/capsular cataract	HP:0007787
+subcapsular/capsular cataract	HP:0000523
+Posterior subcapsular/capsular cataracts	HP:0007787
+subcapsular/capsular cataracts	HP:0000523
+capsular cataracts	HP:0100017
+peripheral cortical lens opacities	HP:0100019
+peripheral cortical cataracts	HP:0008011
+cortical cataracts	HP:0100019
+peripheral cortical opacities	HP:0008011
+cortical opacities	HP:0100019
+posterior subcapsular/capsular cataracts	HP:0007787
+cortical cataracts of early onset	HP:0100019
+ovarian calcification	HP:0000147
+ovarian calcification or fibroma	HP:0010618
+ophthalmic abnormalities	HP:0000478
+squint	HP:0000486
+tumors of the central nervous system	HP:0100006
+melanin pigment synthesis in the hair, skin, and eyes	HP:0007513
+Hypopigmentation	HP:0007513
+nystagmus	HP:0000639
+strabismus	HP:0000486
+reduced retinal pigment	HP:0007894
+temporal bone findings	HP:0009911
+cochlear hypoplasia	HP:0008586
+dilation of the vestibular aqueduct	HP:0000359
+bulbous internal auditory canals	HP:0004458
+deep posterior fossae	HP:0000359
+acutely-angled promontories	HP:0000359
+movement problems	HP:0100022
+myoclonic status epilepticus	HP:0002123
+partial seizures	HP:0007359
+eye deviation	HP:0000496
+vomiting	HP:0002013
+epilepsies	HP:0001250
+nonprogressive, age-dependent myoclonic encephalopathy	HP:0007030
+abnormal movements	HP:0100022
+abnormal movements, namely the jerky ones	HP:0001336
+Type A1 brachydactyly	HP:0009371
+shortening of the middle phalanx of all digits	HP:0009843
+fusion of the middle and terminal phalanges	HP:0001204
+type A1 brachydactyly	HP:0009371
+brachydactyly type A1	HP:0009371
+anal, thumb, and ear anomalies	HP:0004378
+thumb, and ear anomalies	HP:0001172
+craniofacial findings	HP:0000271
+typical ear configuration	HP:0000598
+craniofacial manifestations	HP:0000271
+epibulbar dermoids	HP:0001140
+hemifacial microsomia	HP:0000271
+preauricular tags	HP:0000384
+micrognathia	HP:0000347
+ear, radial, and anal findings	HP:0000598
+radial, and anal findings	HP:0002818
+anal findings	HP:0004378
+pits of the palms	HP:0010610
+pits of the palms and soles	HP:0010612
+jaw keratocysts	HP:0010603
+neural tumors	HP:0004375
+many tumors	HP:0002664
+numerous tumors	HP:0002664
+conductive hearing loss	HP:0000405
+failure to thrive	HP:0001508
+neoplasms	HP:0002664
+absent speech	HP:0001344
+puppet-like movements	HP:0100022
+inappropriate laughter	HP:0000748
+abnormal electroencephalogram	HP:0002353
+bilateral cleft lip	HP:0100336
+bilateral cleft lip and palate	HP:0002744
+bilateral microphthalmos	HP:0007633
+microphthalmos	HP:0000568
+ocular colobomata	HP:0000589
+dysplastic left kidney	HP:0000089
+ophthalmological findings	HP:0000478
+milder facial anomalies	HP:0001999
+facial anomalies	HP:0000271
+abnormality of the philtrum	HP:0000288
+bilateral congenital nasolacrimal duct obstruction	HP:0007678
+mild facial anomalies	HP:0001999
+short philtrum	HP:0000322
+contractures of the distal limbs	HP:0003121
+overlapping fingers at birth	HP:0010557
+abnormal digital flexion creases	HP:0006143
+talipes	HP:0001883
+talipes equinovarus	HP:0001762
+severely retarded	HP:0010864
+lacking recognisable speech.	HP:0001344
+poor postnatal head growth	HP:0005484
+Hypotonia	HP:0001252
+Hypotonia at birth	HP:0001319
+neonatal feeding difficulties	HP:0008872
+feeding difficulties	HP:0011968
+abnormal EEG	HP:0002353
+could not walk independently	HP:0002540
+Disrupted sleep patterns	HP:0002360
+ataxic movements	HP:0001251
+absent language	HP:0002463
+abnormal segmentation of the index and middle fingers	HP:0004100
+frequent smiling and laughter	HP:0000749
+abnormal gait	HP:0001288
+shortness of the second and fifth middle phalanges	HP:0004220
+skeletal and non-skeletal findings	HP:0000924
+shortness principally affecting the second and fifth phalanges and first metacarpal	HP:0009536
+bilateral Madelung deformity	HP:0003067
+hand and foot anomalies	HP:0001155
+foot anomalies	HP:0001760
+keratocysts of the jaw	HP:0010603
+spine and rib anomalies	HP:0000925
+rib anomalies	HP:0000772
+Palmar pits	HP:0010610
+Ovarian fibromas	HP:0010618
+Medulloblastoma	HP:0002885
+coarse face	HP:0000280
+relative macrocephaly	HP:0004482
+pectus deformity	HP:0000766
+Sprengel deformity	HP:0000912
+bridged sella	HP:0005449
+hemivertebrae	HP:0002937
+fusion of the vertebral bodies	HP:0002948
+short fourth metacarpal	HP:0010044
+cervical ribs	HP:0000891
+spina bifida occulta	HP:0003298
+radiosensitive response	HP:0003079
+odontogenic keratocyst of the mandible	HP:0010603
+radiosensitive	HP:0003079
+intellectual disability	HP:0001249
+ataxic or hypermotoric limb movements	HP:0002070
+hypermotoric limb movements	HP:0002311
+lack of speech	HP:0001344
+"happy" demeanour	HP:0100024
+large mouth and jaw	HP:0000303
+large mouth	HP:0000154
+deep set eyes	HP:0000490
+large head	HP:0000256
+Outbursts of laughter	HP:0000749
+constant happy demeanour	HP:0100024
+Ocular abnormalities	HP:0000315
+kyphosis	HP:0002808
+never walked	HP:0002540
+Kyphosis	HP:0002808
+multiple intracranial meningiomas	HP:0002664
+neurinomas	HP:0009588
+multiple tumorigenesis	HP:0002664
+anal, renal, limb and ear anomalies	HP:0004378
+exotropia	HP:0000577
+cystic mass in the left posterior alveolar ridge	HP:0006477
+palmar and plantar pitting	HP:0010612
+characteristic EEGs	HP:0002353
+intractable epilepsy	HP:0001250
+myoclonias	HP:0001336
+generalized extensor tonic seizures	HP:0002069
+flexor spasms	HP:0004305
+Epileptic spasms	HP:0011097
+atonic seizures	HP:0010819
+peculiar face	HP:0001999
+mental deficiency	HP:0001249
+euphoria	HP:0000708
+infantile spasms	HP:0001250
+grand-mal attacks	HP:0002069
+CNS tumours	HP:0100006
+papilloma	HP:0012740
+motor dysfunction	HP:0001270
+learning deficit	HP:0001328
+neurologic deficits	HP:0000707
+overgrowth	HP:0001548
+hyperphagia	HP:0002591
+neurogenic tumours	HP:0004375
+partial deafness	HP:0000365
+severe renal dysgenesis	HP:0000104
+pneumothorax	HP:0002107
+immature development of the lungs	HP:0002088
+renal agenesis or dysgenesis	HP:0000104

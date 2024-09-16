@@ -1,0 +1,140 @@
+OSAS	HP:0002870
+COPD	HP:0006510
+CB	HP:0004469
+dyspnea	HP:0002094
+hypertension	HP:0000822
+exertional dyspnea	HP:0002875
+OSA	HP:0002870
+hypopnea	HP:0040213
+apnea	HP:0002104
+hypoxemia	HP:0012418
+daytime fatigue	HP:0012378
+sleepiness	HP:0002329
+PD (	HP:0006510
+PD.	HP:0006510
+emphysematous COPD	HP:0006510
+emphysema	HP:0002097
+persistent hypoxemia	HP:0012418
+pulmonary hypertension	HP:0002092
+pneumonia	HP:0002090
+mortality	HP:0004438
+heart murmur	HP:0030148
+peripheral oedema	HP:0012398
+poor exercise tolerance	HP:0003546
+drowsiness	HP:0001262
+constipation	HP:0002019
+nausea	HP:0002018
+vomiting	HP:0002013
+dizziness	HP:0002321
+breathlessness	HP:0002094
+asthma	HP:0002099
+respiratory failure	HP:0002878
+exercise intolerance	HP:0003546
+hypercarbia	HP:0012416
+dyspnoea	HP:0002094
+Dyspnoea	HP:0002094
+left ventricular hypertrophy	HP:0001712
+PH	HP:0002092
+PAH	HP:0002092
+pulmonary arterial hypertension	HP:0002092
+EKG changes	HP:0011675
+respiratory infection	HP:0011947
+mild to moderate COPD	HP:0006510
+hypocapnia	HP:0012417
+severe hypoxemia	HP:0012418
+cardiopulmonary arrest	HP:0006543
+depression	HP:0000716
+sleep-disordered breathing	HP:0010535
+obstructive and mixed apneas	HP:0002870
+Airway Obstructive Disease	HP:0006536
+diarrhea	HP:0002014
+irreversible severe COPD	HP:0006510
+Dyspnea	HP:0002094
+reduction in breathlessness	HP:0002094
+hypoxaemia	HP:0012418
+hypercapnia	HP:0012416
+severe dyspnea	HP:0002094
+tachypnoea	HP:0002789
+somnolence	HP:0001262
+respiratory arrest	HP:0005943
+mild to moderate hypoxemia	HP:0012418
+right heart congestion	HP:0001635
+right heart failure	HP:0001708
+CRD	HP:0000510
+both right heart congestion	HP:0001635
+bronchitis	HP:0012387
+coronary artery disease	HP:0001677
+myocardial infarct	HP:0001658
+Type I PHD	HP:0001648
+IPAH	HP:0002092
+chronic bronchitis	HP:0004469
+stable COPD	HP:0006510
+decrease in dyspnea	HP:0002094
+advanced COPD	HP:0006510
+type II diabetes mellitus	HP:0005978
+diabetes mellitus	HP:0000819
+cough	HP:0012735
+wheeze	HP:0030828
+obstructive lung disease	HP:0006536
+vitamin D deficiency	HP:0100512
+CHF	HP:0001635
+chronic Obstructive Lung Disease	HP:0006510
+polycythemia	HP:0001901
+bradycardia	HP:0001662
+hypoventilation	HP:0002791
+obesity	HP:0001513
+chronic lung disease	HP:0006528
+pulmonary inflammation	HP:0002090
+moderate-severe COPD	HP:0006510
+Chronic obstructive pulmonary disease	HP:0006510
+sleep apnea syndrome	HP:0010535
+pneumothorax	HP:0002107
+atelectasis	HP:0100750
+pleural effusion	HP:0002202
+cardiovascular disease	HP:0001626
+increased mortality risk	HP:0004438
+weight loss	HP:0004325
+osteoporosis	HP:0000939
+cardiovascular disease,	HP:0001626
+loss of work days	HP:0002381
+septicemia	HP:0100806
+obstructive lung diseases	HP:0006536
+mild hypercapnia	HP:0012416
+hyponatremia	HP:0002902
+hypokalemia	HP:0002900
+Cor-pulmonale	HP:0001648
+elevated blood urea	HP:0003138
+elevated serum creatinine	HP:0003259
+carbon dioxide retention	HP:0012416
+elevated transaminases	HP:0002910
+chronic obstructive pulmonary disease	HP:0006510
+obstructive sleep apnea	HP:0002870
+wheezing	HP:0030828
+small airway disease	HP:0006510
+Stable COPD	HP:0006510
+stroke volume	HP:0001297
+reductions in heart rate	HP:0001662
+increased pulmonary vascular resistance	HP:0005317
+Hypoxemia	HP:0012418
+diminished exercise tolerance	HP:0003546
+pleural inflammation	HP:0002102
+pain	HP:0012531
+Pain	HP:0012531
+lung disease	HP:0002088
+right ventricle enlargement	HP:0001667
+heart failure	HP:0001635
+pulmonary emboli	HP:0002204
+upper airway obstructive episodes	HP:0012271
+Chronic Obstructive Pulmonary Disease	HP:0006510
+right ventricular hypertrophy	HP:0001667
+mild hypoxemia	HP:0012418
+progressive pneumonia	HP:0002090
+Chronic Obstructive Lung disease	HP:0006510
+COPD stage II	HP:0006510
+cancer	HP:0002664
+moderate to severe COPD	HP:0006510
+diabetes	HP:0005978
+ventricular hypertrophy	HP:0001714
+Right ventricular hypertrophy	HP:0001667
+PHD	HP:0001648
+stepping	HP:0003376
