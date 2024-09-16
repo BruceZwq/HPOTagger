@@ -1,4 +1,6 @@
-# Preparation（git clone & pip install & setup.py）
+# Preparation
+
+git clone & pip install & setup.py refer to Phenotagger
 
 # Instance-Enhancer
 
