@@ -1,4 +1,5 @@
 # HPOTagger
+<<<<<<< HEAD
 
 Investigation of Synonym Expansion and Self-Alignment Pretraining for Enhancing Human Phenotype Ontology Concept Recognition
 
@@ -22,3 +23,6 @@ Refer to SapBERT model training process:
 # Model Training and Tagging
 
 Go to read the readmes at /your/path/PhenoTagger-enhancement/ and /your/path/PhenoBERT-enhancement/ for the corresponding Training and Tagging.
+=======
+Investigation of Synonym Expansion and Self-Alignment Pretraining for Enhancing Human Phenotype Ontology Concept Recognition
+>>>>>>> 1d9441ad44091045931041bdfa44f87fc2987b38
