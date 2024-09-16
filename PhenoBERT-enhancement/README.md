@@ -12,20 +12,20 @@ Replace 'biobert_v1.1_pubmed' in the path with 'pubmedberthposy_epoch_10_filter'
 
 # Instance-Enhancer
 
-Generate the original training dataset.
+## Generate the original training dataset.
 
 cd /your/path/PhenoBERT-enhancement/utils
 python produce_trainSet.py
 python produce_trainSet_sub.py
 
-Expand CNN layer1 training dataset.
+## Expand CNN layer1 training dataset.
 
 cd /your/path/PhenoBERT-enhancement/utils/Dsyutils
 python extractNone.py
 python expand_trainSet.py
 python trainSet_filter.py
 
-Expand CNN layer2 training dataset.
+## Expand CNN layer2 training dataset.
 
 cd /your/path/PhenoBERT-enhancement/utils/Dsyutils
 python expand_trainSet_sub.py
